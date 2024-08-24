@@ -15,7 +15,3 @@
 4.Keranjang
 
 ![image](https://github.com/user-attachments/assets/76229917-4da4-457f-8a4c-681d5ae7c852)
-
-5.Profil
-
-![image](https://github.com/user-attachments/assets/95cf4f95-3a23-4559-96a5-0ad397b866ce)
